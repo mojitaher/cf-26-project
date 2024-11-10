@@ -542,7 +542,7 @@ body {
 .rules .title {
   margin-top: 370px;
   margin-bottom: 60px;
-  align-items: end;
+  margin-left: 130px;
 }
 .rules .check-container {
   position: relative;
